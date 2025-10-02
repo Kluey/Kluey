@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Kluey
-- 👀 I’m interested in, maybe creating games? applications? software? I'm not sure yet, I just want to learn to code for now.
+I like to code things to make things easier :)
 
 
 <!---
